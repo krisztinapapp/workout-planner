@@ -1,4 +1,4 @@
-# Workout planner & tracker web application using MERN stack
+# Workout tracker web application using MERN stack
 
 To install the required packages:
 
